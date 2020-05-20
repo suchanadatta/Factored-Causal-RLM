@@ -1,6 +1,5 @@
 # FCRLM : In search of chain of causes behind Query Events (SIGIR-2020) 
-# -- Suchana Datta, Debasis Ganguly, Dwaipayan Roy, Francesca Bonin, Charles Jochim nd Mandar Mitra
-========
+-- Suchana Datta, Debasis Ganguly, Dwaipayan Roy, Francesca Bonin, Charles Jochim and Mandar Mitra
 
 Build using Ant:
 
