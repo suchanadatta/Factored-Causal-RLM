@@ -2,7 +2,7 @@
 -- Suchana Datta, Debasis Ganguly, Dwaipayan Roy, Francesca Bonin, Charles Jochim and Mandar Mitra
 
 ``````````````````````````````````````````````
-FCRLM (Factored Causal ReLevance Model) is written on top of Relevance Feedback Model implemented using java by Dr. Dwaipayan Roy (https://github.com/dwaipayanroy/Relevance-Model)
+FCRLM (Factored Causal ReLevance Model) is written on top of Relevance Feedback Model implemented using java by Dwaipayan Roy (https://github.com/dwaipayanroy/Relevance-Model)
 ``````````````````````````````````````````````
 ===============
 
