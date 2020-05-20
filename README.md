@@ -3,18 +3,18 @@
 
 ===============
 
->>> Build using Ant:
+> Build using Ant:
 `````
 ant
 `````
 
->>> Set parameter in 'run.sh' file:
+> Set parameter in 'run.sh' file:
 `````````````````````````````````````````````
 stopFilePath="The path of the stopword file" 
 ## ./src/resources/smart-stopwords
 `````````````````````````````````````````````
 
->>> Run the program :
+> Run the program :
 `````````````````
 ./scripts/run.sh
 `````````````````
