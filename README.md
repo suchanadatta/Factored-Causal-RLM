@@ -1,11 +1,17 @@
 # FCRLM : In search of chain of causes behind Query Events (SIGIR-2020) 
 -- Suchana Datta, Debasis Ganguly, Dwaipayan Roy, Francesca Bonin, Charles Jochim and Mandar Mitra
 
-Build using Ant:
+===============
 
-```
+````````````````
+Build using Ant:
+````````````````
 ant
-```
+
+`````````````````
+Run the program :
+`````````````````
+./scripts/run.sh
 
 Two ways to execute the program:
 
