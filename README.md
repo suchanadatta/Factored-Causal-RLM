@@ -1,6 +1,8 @@
 # FCRLM : In search of chain of causes behind Query Events (SIGIR-2020) 
 -- Suchana Datta, Debasis Ganguly, Dwaipayan Roy, Francesca Bonin, Charles Jochim and Mandar Mitra
 
+``````````````````````````````````````````````
+FCRLM (Factored Causal ReLevance Model) is a modif
 ===============
 
 > Build using Ant:
