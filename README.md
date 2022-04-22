@@ -3,7 +3,7 @@
 
 FCRLM (Factored Causal ReLevance Model) is written on top of Relevance Feedback Model implemented using java by Dwaipayan Roy (https://github.com/dwaipayanroy/Relevance-Model)
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](fcrlm_model.png?raw=true "Title")
 
 > Build using Ant:
 `````
