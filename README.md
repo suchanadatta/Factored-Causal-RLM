@@ -29,7 +29,7 @@ stopFilePath="The path of the stopword file"
 8. SimilarityFunction: 0.DefaultSimilarity, 1.BM25Similarity, 2.LMJelinekMercerSimilarity, 3.LMDirichletSimilarity.
 ``````````````````````````````````````````````````````````````````````````````````````````
 
-If you are using this model, please consider citing out work : 
+If you are using this model, please consider citing our work : 
 ``````````````````````````````````````````````````````````````
 @inproceedings{DBLP:conf/sigir/DattaGRBJM20,
   author    = {Suchana Datta and
