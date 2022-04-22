@@ -28,3 +28,20 @@ stopFilePath="The path of the stopword file"
 7. RM3-QueryMix (0.0-1.0): to weight between P(w|R) and P(w|Q).
 8. SimilarityFunction: 0.DefaultSimilarity, 1.BM25Similarity, 2.LMJelinekMercerSimilarity, 3.LMDirichletSimilarity.
 ``````````````````````````````````````````````````````````````````````````````````````````
+
+If you are using this model, please consider citing out work : 
+``````````````````````````````````````````````````````````````
+@inproceedings{DBLP:conf/sigir/DattaGRBJM20,
+  author    = {Suchana Datta and
+               Debasis Ganguly and
+               Dwaipayan Roy and
+               Francesca Bonin and
+               Charles Jochim and
+               Mandar Mitra},
+  title     = {Retrieving Potential Causes from a Query Event},
+  booktitle = {{SIGIR}},
+  pages     = {1689--1692},
+  publisher = {{ACM}},
+  year      = {2020}
+}
+``````````````````````````````````````````````````````````````
